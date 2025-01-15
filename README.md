@@ -1,4 +1,3 @@
-* Android App: https://play.google.com/store/apps/details?id=com.bluino.esp8266wifirobotcar&hl=en_SG
-* Credits: https://www.bluino.com/
+# ESP8266 WiFi Car Based on L298D Motor Driver & Wemos D1 Dev Board
 
-Code Modified by Suyog S Buradkar (suyogburadkar@gmail.com)
+* Code Modified by Suyog S Buradkar (suyogburadkar@gmail.com)
